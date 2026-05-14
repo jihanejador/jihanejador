@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋 I'm Jihan
 
-<!--
-**jihanejador/jihanejador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Web Development Student  
+💻 Passionate about Frontend & Backend Development  
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- HTML
+- CSS
+- Tailwind CSS
+- JavaScript
+- React
+
+### Backend
+- PHP
+- OOP
+- SQL
+
+### Other Languages
+- Java
+- Python
+
+## 📚 Currently Learning
+- Advanced PHP
+- Object-Oriented Programming
+- Backend Development
+
+## 🛠️ Projects
+- Quiz Platform
+- Library Management System
+- Multiple academic and practice projects
+
+## 📈 Goals
+- Become a Full Stack Developer
+- Improve problem solving skills
+- Build professional web applications
+
+## 🌐 GitHub Profile
+https://github.com/jihanejador
+
+
